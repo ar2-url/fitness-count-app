@@ -4,6 +4,7 @@ struct Exercise {
   var reps: Int
   var sets: Int
   var totalReps: Int
+    //adding comment
   
   init(name: String, muscleGroups: [String], reps: Int,  sets: Int) {
     self.name = name
